@@ -3,7 +3,7 @@
 Welcome to the **VCT Hackathon: VALORANT Esports Manager**, a project created to support the scouting and recruitment process of VALORANT esports teams using an LLM-powered digital assistant.
 
 ## 🏆 Project Overview
-Our team [**Manan Jain**](https://www.linkedin.com/in/mananjen007/), [**Manoj Dattatreya Myneni**](https://www.linkedin.com/in/manoj1205/), [**Bhavyashree Putta**](https://www.linkedin.com/in/bhavyashree-putta-b120261b8/), [**Rishi Madhavaram**](https://www.linkedin.com/in/rishimadhavaram/), and [**Tejodbhav Koduru**](https://www.linkedin.com/in/tejkodur/) developed a digital assistant that enhances player scouting and recruitment using Amazon Bedrock and other advanced AI tools. The assistant allows users to build optimal teams, analyze player performance, and make informed decisions.
+Our team [**Rishi Madhavaram**](https://www.linkedin.com/in/rishimadhavaram/), [**Manan Jain**](https://www.linkedin.com/in/mananjen007/), [**Manoj Dattatreya Myneni**](https://www.linkedin.com/in/manoj1205/), [**Bhavyashree Putta**](https://www.linkedin.com/in/bhavyashree-putta-b120261b8/), and [**Tejodbhav Koduru**](https://www.linkedin.com/in/tejkodur/) developed a digital assistant that enhances player scouting and recruitment using Amazon Bedrock and other advanced AI tools. The assistant allows users to build optimal teams, analyze player performance, and make informed decisions.
 
 ## 🎮 About VALORANT
 VALORANT is a tactical FPS by Riot Games, featuring intense 5v5 combat where players use strategic abilities and precise gunplay. The VALORANT Champions Tour (VCT) is the official esports league that hosts regional and international competitions, culminating in a global championship.
